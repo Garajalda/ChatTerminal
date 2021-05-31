@@ -1,2 +1,3 @@
 # ChatTerminal
-Chat para terminal usando protocolo TCP/IP
+Chat para terminal usando protocolo TCP/IP.
+Sockets en java.
